@@ -9,8 +9,8 @@ class Analyzer:
 		to validate the active sessions, and _unloadapp.msh to kill them.
 
 		Authors:
-			Santiago Vazquez Diaz
 			Angel Cruz Hernandez
+			Santiago Vazquez Diaz
 	"""
 	def __init__(self, folder_path_out, user, password):
 		print ('Iniciando Analyzer')
